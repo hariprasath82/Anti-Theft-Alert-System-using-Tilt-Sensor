@@ -1,8 +1,5 @@
 # Anti-Theft-Alert-System-using-Tilt-Sensor
 
-### Name: Mathan Kailash S
-### Reg No: 212223060156
-### Slot: 4X4-5
 
 ## Aim:
 To measure the tilt Sensor using SW200D with Arduino UNO Board/ESP-32 using Tinker CAD.
